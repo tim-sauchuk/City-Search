@@ -1,3 +1,20 @@
 1. Aggregate the data
 2. Create an api to access that data
 3. Create a front end for it
+
+# data we need
+1. city size (land)
+2. city size (pop)
+3. average number of sunny days
+4. average temperature
+5. nightlife
+6. outdoorsiness
+7. leading industries
+8. language spoken
+9. country
+10. healthcare
+11. crime rate
+12. salary
+13. living expenses
+14. salary/living expenses ratio
+15. sports teams
